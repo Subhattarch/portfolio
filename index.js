@@ -1,3 +1,2 @@
-let container = document.querySelector("#container");
-container.style.height = "100px";
-container.style.width = "100px";
+let container = document.querySelector("body");
+container.style.backgroundColor = "red";
