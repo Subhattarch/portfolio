@@ -1,3 +1,3 @@
 let container = document.querySelector("container");
-container.clientHeight = 100;
-container.clientWidth = 100;
+container.style.height = "100px";
+container.style.width = "100px";
